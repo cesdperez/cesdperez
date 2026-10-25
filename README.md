@@ -7,4 +7,12 @@ I've always been a curious soul, and that's no different in the AI age.
 I find joy in bringing ideas to life in short iterations and in rethinking our entire SDLC.
 
 Outside work I'm a hobbyist triathlete and runner, which justifies the occasional asado.
-My side projects right now focus on agentic coding and apps for endurance sports.
+My side projects right now focus on agentic coding and apps for endurance sports:
+
+- [puckling](https://github.com/cesdperez/puckling): a Tamagotchi that lives off my coding agents, on an ESP32 AMOLED
+- [activeyear](https://github.com/cesdperez/activeyear): turns your training data into a shareable year-in-review
+- [lightmile-worldmap](https://github.com/cesdperez/lightmile-worldmap): a world map that lights up wherever my run club takes a photo
+- [huntboard](https://github.com/cesdperez/huntboard): live scoreboard for team scavenger hunts
+- [ldaudit](https://github.com/cesdperez/ldaudit): CLI to audit LaunchDarkly feature flags
+
+More at [checho.xyz](https://checho.xyz).
